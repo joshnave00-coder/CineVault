@@ -1,4 +1,4 @@
-# Josh's Media Library — File Reference
+# CineVault — File Reference
 
 This folder contains all files for a local media library web app built to catalog and browse the video collection stored on the **FreeAgent GoFlex Drive (E:)**.
 
